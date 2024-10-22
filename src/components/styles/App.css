@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(180deg, #0c5ba1, #118dd9);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+
+.error-message {
+  color: #d9534f; 
+  background-color: #f8d7da; 
+  border: 1px solid #f5c6cb; 
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-align: center;
+  width: 80%;
+  margin: 20px auto; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.error-icon {
+  margin-right: 10px;
+  font-size: 1.5rem; 
+}
