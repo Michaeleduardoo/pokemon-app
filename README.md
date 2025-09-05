@@ -12,7 +12,7 @@
 
 ## 🎯 Sobre o Projeto
 
-A **Pokédex App** é uma aplicação web moderna desenvolvida em React que permite aos usuários pesquisar e explorar informações detalhadas sobre qualquer Pokémon. Utilizando a PokéAPI, a aplicação oferece uma experiência intuitiva e responsiva para fãs de Pokémon de todas as idades.
+A **Pokédex** é uma aplicação web moderna desenvolvida em React que permite aos usuários pesquisar e explorar informações detalhadas sobre qualquer Pokémon. Utilizando a PokéAPI, a aplicação oferece uma experiência intuitiva e responsiva para fãs de Pokémon de todas as idades.
 
 ### 🎮 Por que este projeto?
 
